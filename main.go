@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"simpleapi/controllers"
-	"simpleapi/initializers"
-	"simpleapi/routes"
+	"api_go/controllers"
+	"api_go/initializers"
+	"api_go/routes"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

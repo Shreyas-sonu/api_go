@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"simpleapi/initializers"
-	"simpleapi/models"
-	"simpleapi/utils"
+	"api_go/initializers"
+	"api_go/models"
+	"api_go/utils"
 
 	"github.com/gin-gonic/gin"
 )

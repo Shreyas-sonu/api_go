@@ -1,2 +1,2 @@
 # api_go
-backend service using  go
+backend service using  go language
